@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Student Home 
-description: Home Page
+title: Rubio's Home 
+description: Home
 hide: true
 ---
 
-My journey starts here.
+My journey starts here Alex Rubio!
