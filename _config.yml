@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: Alex Rubio's
 github_username: nighthawkcoders
 github_repo: "rubios_2025" 
-baseurl: "/rubios_2025"
+baseurl: "/Rubios_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
