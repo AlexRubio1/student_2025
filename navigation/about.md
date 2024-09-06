@@ -1,10 +1,21 @@
 ---
 layout: page
-title: About
+title: About Alex Rubio
 permalink: /about/
+@import ![Alt text](../images/DSC06914.jpg)
 ---
 
-Hi! my name is alex and i play football for del norte.
+> **The beginning of my coding journey**
+
+The start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code possibly and animation or anything. Starting with this homepage I'm going to try and make it entertaining. 
+
+
+
+
+<img src="(../images/DSC06914.jpg)" width="300" height="400">
+
+
+More about myself is that I love playing football and that it's my passion. I wanted to start to learn coding because of my dad and video games. I saw by how the graphics and everything made me intruged and how I can do that to other people too and how I could increase my knowledge.
 
 
 
@@ -42,8 +53,6 @@ Hi! my name is alex and i play football for del norte.
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
-        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
         {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
     ]; 
     
