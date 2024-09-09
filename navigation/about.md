@@ -14,22 +14,26 @@ The start of my journey was a little intense has I didn't know what I was for a 
 
 ![Picture](DSC02532.jpeg)   
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Image Gallery</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>Image Gallery</h1>
-    <div class="gallery">
-        <img src="images/Rubio3.jpg" alt="Image 1">
-        <img src="images/Rubio5.jpg" alt="Image 2">
-        <img src="images/Rubios1.jpg" alt="Image 3">
-    </div>
-</body>
-</html>
+<comment>
+Gallery of Pics, scroll to the right for more ...
+</comment>
+<div class="image-gallery">
+  <img src="{../../../Downloads/FullSizeRender.heic" alt="Image 1">
+  <img src="![Alt text](IMG_3367.jpg)" 
+  alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/images/about/trent.jpg" alt="Image 9">
+  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
+  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
+  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+</div>
+
+
 
 
 
