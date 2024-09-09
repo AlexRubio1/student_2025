@@ -19,8 +19,7 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/About/DSC06914.jpg" alt="Image 1">
-  <img src="![Alt text](IMG_3367.jpg)" 
-  alt="Image 2">
+  <img src="{{site.baseurl}}/images/About/FullSizeRender.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
   <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
