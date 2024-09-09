@@ -2,20 +2,37 @@
 layout: page
 title: About Alex Rubio
 permalink: /about/
-@import ![Alt text](../images/DSC06914.jpg)
 ---
 
 > **The beginning of my coding journey**
 
-The start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code possibly and animation or anything. Starting with this homepage I'm going to try and make it entertaining. 
+The start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code animation and make intertaining games. Also w
 
+> **My Sports Journey**
 
+- My Sports Journey started with basketball when I was young, more about myself is that I love playing football and that it's my passion currently.
 
+![Picture](DSC02532.jpeg)   
 
-<img src="(../images/DSC06914.jpg)" width="300" height="400">
+<comment>
+Gallery of Pics, scroll to the right for more ...
+</comment>
+<div class="image-gallery">
+  <img src="{../../../Downloads/FullSizeRender.heic" alt="Image 1">
+  <img src="![Alt text](IMG_3367.jpg)" 
+  alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/images/about/trent.jpg" alt="Image 9">
+  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
+  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
+  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+</div>
 
-
-More about myself is that I love playing football and that it's my passion. I wanted to start to learn coding because of my dad and video games. I saw by how the graphics and everything made me intruged and how I can do that to other people too and how I could increase my knowledge.
 
 
 
