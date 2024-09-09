@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Alex Rubio
-permalink: /about/
+permalink: /Rubios_about/
 ---
 
 > **The beginning of my coding journey**
@@ -17,20 +17,28 @@ The start of my journey was a little intense has I didn't know what I was for a 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
-<div class="image-gallery">
-  <img src="{../../../Downloads/FullSizeRender.heic" alt="Image 1">
-  <img src="![Alt text](IMG_3367.jpg)" 
-  alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent.jpg" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+</style>
+
+<h2>Image Gallery of my sports journey</h2>
+<p>Use the horizontal scrollbar to see the other images.</p>
+
+<div class="scroll-container">
+  <img src="../images/about/Rubio1.jpg" alt="Sports Beginning" width="600" height="400">
+  <img src="../images/about/Rubio2.jpg" alt="Basketball at age 9" width="600" height="400">
+  <img src="../images/about/Rubio3.jpg" alt="The beginning of football" width="600" height="400">
+  <img src="../images/about/Rubio5.jpg" alt="Inseason football" width="600" height="400">
 </div>
 
 
