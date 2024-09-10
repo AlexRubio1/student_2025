@@ -14,9 +14,6 @@ The start of my journey was a little intense has I didn't know what I was for a 
 
 ![Picture](DSC02532.jpeg)   
 
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 div.scroll-container {
@@ -35,10 +32,11 @@ div.scroll-container img {
 <p>Use the horizontal scrollbar to see the other images.</p>
 
 <div class="scroll-container">
-  <img src="../images/about/Rubio1.jpg" alt="Sports Beginning" width="600" height="400">
-  <img src="../images/about/Rubio2.jpg" alt="Basketball at age 9" width="600" height="400">
+  <img src="../images/about/Rubio1.jpg" alt="Sports Beginning" width="375" height="400">
+  <img src="../images/about/Rubio2.jpg" alt="Basketball at age 9" width="350" height="400">
   <img src="../images/about/Rubio3.jpg" alt="The beginning of football" width="600" height="400">
-  <img src="../images/about/Rubio5.jpg" alt="Inseason football" width="600" height="400">
+  <img src="../images/about/Rubio5.jpg" alt="Inseason football" width="300" height="400">
+  <img src="../images/about/Rubio8.jpg" alt="Inseason football" width="300" height="400">
 </div>
 
 
