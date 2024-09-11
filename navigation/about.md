@@ -32,12 +32,31 @@ div.scroll-container img {
 <p>Use the horizontal scrollbar to see the other images.</p>
 
 <div class="scroll-container">
-  <img src="../images/about/Rubio1.jpg" alt="Sports Beginning" width="375" height="400">
+  <img src="../images/about/Rubio.jpg" alt="Sports Beginning" width="350" height="400">
+  <img src="../images/about/Rubio1.jpg" alt="Sports Beginning" width="350" height="400">
   <img src="../images/about/Rubio2.jpg" alt="Basketball at age 9" width="350" height="400">
   <img src="../images/about/Rubio3.jpg" alt="The beginning of football" width="600" height="400">
   <img src="../images/about/Rubio5.jpg" alt="Inseason football" width="300" height="400">
+  <img src="../images/about/Rubio6.jpg" alt="Inseason football" width="500" height="400">
   <img src="../images/about/Rubio8.jpg" alt="Inseason football" width="300" height="400">
 </div>
+
+
+
+> **Fun Facts about me**
+
+- I Started sports at a young age starting with basketball then going to football 🏈🏀
+
+- I Lived in California my whole life while my parents lived in mexico for half their life 🇲🇽
+
+- My hobbys are hanging out with my friends and family, playing videogames, and watching the nfl 🏈
+
+- I love going to the beach, im very outgoing 🏖️
+
+- I have 4 pets, 2 cats and 2 dogs 🐈🐶
+
+
+
 
 
 
