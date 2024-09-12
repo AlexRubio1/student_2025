@@ -3,7 +3,7 @@ layout: page
 title: About Alex Rubio
 permalink: /Rubios_about/
 ---
-
+%%markdown
 > **The beginning of my coding journey**
 
 The start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code animation and make intertaining games. Also w
@@ -28,7 +28,7 @@ div.scroll-container img {
 }
 </style>
 
-<h2>Image Gallery of my sports journey</h2>
+<h2>Image Gallery of my sports journey and my family</h2>
 <p>Use the horizontal scrollbar to see the other images.</p>
 
 <div class="scroll-container">
