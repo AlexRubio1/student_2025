@@ -3,7 +3,6 @@ layout: page
 title: About Alex Rubio
 permalink: /Rubios_about/
 ---
-%%markdown
 > **The beginning of my coding journey**
 
 The start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code animation and make intertaining games. Also w
