@@ -7,6 +7,8 @@ hide: true
 {% include nav/home.html %}
 My journey starts here Alex Rubio!
 
+
+
 <!--- Concatenation of site URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
 <!--- Has is a list variable containing mario metadata for sprite --->
@@ -187,11 +189,14 @@ My journey starts here Alex Rubio!
 
 </script>
 
+
 <html lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dark Mode Example</title>
+    <title>Light and Dark Mode</title>
+    <link id="theme-stylesheet" rel="stylesheet" href="light-mode.css">
+    <button id="toggle-theme">Toggle Light/Dark Mode</button>
+    <p>Dark and Light mode</p>
     <link id="theme-style" rel="stylesheet" href="light-mode.css">
-    <h1>Toggle Dark Mode</h1>
-    <button id="toggle-button">Switch to Dark Mode</button>
-    <script src="script.js"></script>
+    <script src="theme-toggle.js"></script>
+  

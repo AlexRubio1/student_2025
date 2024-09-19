@@ -3,6 +3,7 @@ layout: page
 title: About Alex Rubio
 permalink: /Rubios_about/
 ---
+
 > **The beginning of my coding journey**
 
 The start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code animation and make intertaining games. Also w
@@ -12,6 +13,8 @@ The start of my journey was a little intense has I didn't know what I was for a 
 - My Sports Journey started with basketball when I was young, more about myself is that I love playing football and that it's my passion currently.
 
 ![Picture](DSC02532.jpeg)   
+
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -35,7 +38,6 @@ div.scroll-container img {
   <img src="../images/about/Rubio1.jpg" alt="Sports Beginning" width="350" height="400">
   <img src="../images/about/Rubio2.jpg" alt="Basketball at age 9" width="350" height="400">
   <img src="../images/about/Rubio3.jpg" alt="The beginning of football" width="600" height="400">
-  <img src="../images/about/Rubio5.jpg" alt="Inseason football" width="300" height="400">
   <img src="../images/about/Rubio6.jpg" alt="Inseason football" width="500" height="400">
   <img src="../images/about/Rubio8.jpg" alt="Inseason football" width="300" height="400">
 </div>
@@ -126,4 +128,12 @@ div.scroll-container img {
         // Append the grid item DIV to the container DIV
         container.appendChild(gridItem);
     }
+</script>
+
+<script src="https://utteranc.es/client.js"
+        repo="AlexRubio1/Student_2025"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
 </script>
